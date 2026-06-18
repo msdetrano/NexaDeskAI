@@ -32,6 +32,11 @@ O projeto foi desenvolvido para a disciplina **IA Generativa Aplicada ao Desenvo
 
 Reduzir o atrito entre o colaborador e o conhecimento oficial da empresa, oferecendo respostas confiáveis em segundos, sem aumentar a carga sobre os times de RH e TI.
 
+<img width="1280" height="720" alt="04-dashboard" src="https://github.com/user-attachments/assets/c3091149-a290-4ec2-a379-36ca83e2d797" />
+
+<img width="1280" height="720" alt="05-knowledge" src="https://github.com/user-attachments/assets/0ecc46a9-6d45-49ee-be72-bd0d2b132ee0" />
+
+
 ## ✨ Funcionalidades
 
 - 🔐 **Login corporativo** fictício com persistência em `localStorage`
