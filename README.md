@@ -214,16 +214,16 @@ furnished to do so, subject to the following conditions: …
 
 ## 👤 Autor
 
-**[Seu Nome Aqui]**
+**Marcos Detrano**
 🎓 Disciplina: *IA Generativa Aplicada ao Desenvolvimento*
-🔗 [LinkedIn](#) · [GitHub](#) · [E-mail](#)
+
 
 ## 🙏 Agradecimentos
 
 - À **Anthropic, OpenAI, GitHub e Lovable** pelas ferramentas que tornaram este projeto possível.
 - À comunidade **React / TanStack / Tailwind**, pela documentação de excelência.
-- Ao(à) Prof.(a) **[Nome do Orientador]** pela condução da disciplina.
-- A todos os autores citados nas [referências bibliográficas](./NexaDesk-AI-TCC.md#13-referências-bibliográficas).
+- Ao(à) Prof.(a) **Patricia Miscolcz** pela condução da disciplina.
+
 
 ---
 
