@@ -17,6 +17,7 @@
 
 </div>
 
+ ** Acesso a Demonstração -> ** https://nexa-copilot-ai.lovable.app/auth
 ---
 
 ## 📖 Descrição
