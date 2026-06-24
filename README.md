@@ -40,7 +40,7 @@ Reduzir o atrito entre o colaborador e o conhecimento oficial da empresa, oferec
 
 ## ✨ Funcionalidades
 
-- 🔐 **Login corporativo** fictício com persistência em `localStorage`
+- 🔐 **Login corporativo** fictício
 - 💬 **Chat conversacional** com indicador "pensando…", sugestões iniciais e scroll automático
 - 📚 **Base de conhecimento** com 77 documentos em 12 categorias, busca e filtros
 - 📊 **Dashboard** com métricas e atalhos
